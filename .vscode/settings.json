@@ -1,0 +1,33 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "database": "MySQL",
+            "username": "root",
+            "name": "Local instance MySQL80",
+            "password": "Nthatisi201030!",
+            "connectionTimeout": 40
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Alx mysql workbench",
+            "database": "MySQL",
+            "username": "willtotes",
+            "password": "Ntha201030!"
+        }
+    ]
+}
